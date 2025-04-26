@@ -2,7 +2,7 @@
 -- Data Source and Related Information:
 -- Journal Name - Our World In Data 
 -- Title - Cornonavirus Pandemic (COVID-19)
--- Authors - Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, 
+-- Authors - Edouard Mathieu, Hannah Ritchie, Lucas RodÃ©s-Guirao, Cameron Appel, 
 -- Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser.
 -- Publication Year - 2020
 -- Link to Dataset - https://ourworldindata.org/coronavirus
